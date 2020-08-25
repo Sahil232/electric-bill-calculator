@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cadfa2851f1ae4c74fc7c1848535e38f",
+    "revision": "32c88d619a3ee9a3666ef35e060c1472",
     "url": "/electric-bill-calculator/index.html"
   },
   {
-    "revision": "a9530692c1a1507e8abc",
+    "revision": "fef3b9c5d1c2ee2ebbb2",
     "url": "/electric-bill-calculator/static/css/main.7532985d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/electric-bill-calculator/static/js/2.d70abd4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9530692c1a1507e8abc",
-    "url": "/electric-bill-calculator/static/js/main.e06ddab8.chunk.js"
+    "revision": "fef3b9c5d1c2ee2ebbb2",
+    "url": "/electric-bill-calculator/static/js/main.588493f3.chunk.js"
   },
   {
     "revision": "9f2f3c66267d39891fb5",
